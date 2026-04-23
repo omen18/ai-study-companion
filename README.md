@@ -171,7 +171,6 @@ make fmt         # run pre-commit formatters
 
 ## 📸 Screenshots
 
-> Drop your screenshots in `docs/screenshots/` and they'll show up here.
 
 | Dashboard | Chat | Flashcards |
 
