@@ -15,6 +15,7 @@ track progress, and keep your streak alive. Open source, self-hostable, and free
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+<img width="1184" height="1642" alt="image" src="https://github.com/user-attachments/assets/354a9485-cdff-4a94-b70e-b89449c9dc20" />
 
 </div>
 
@@ -173,8 +174,11 @@ make fmt         # run pre-commit formatters
 > Drop your screenshots in `docs/screenshots/` and they'll show up here.
 
 | Dashboard | Chat | Flashcards |
-| --------- | ---- | ---------- |
-| _coming soon_ | _coming soon_ | _coming soon_ |
+
+
+<img width="1184" height="1244" alt="image" src="https://github.com/user-attachments/assets/045242a6-18d1-4f07-9f6b-f3c94347504c" />
+<img width="1184" height="1310" alt="image" src="https://github.com/user-attachments/assets/37f77018-8de5-4734-9dbd-d23323eb3c94" />
+<img width="1184" height="1230" alt="image" src="https://github.com/user-attachments/assets/099f84bf-7149-4c87-b468-7ee62eed06d7" />
 
 ## 🤝 Contributing
 
